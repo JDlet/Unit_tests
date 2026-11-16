@@ -61,8 +61,7 @@ python3 -m unittest Unit_tests.tests.test_circle
 
 #### Работа сделана, если:
 <mark>Все тесты проходят успешно (выводится OK).
-Нет ни одной ошибки (FAILED или ERROR).
-Код загружен в репозиторий на GitHub.<mark>
+Нет ни одной ошибки (FAILED или ERROR). </mark>
 
 ### 6. Ожидаемые результаты
 
